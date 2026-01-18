@@ -21,13 +21,10 @@ To Install Ubuntu LXDE Which Is Revived Version Of Lubuntu With LXDE
 9 System Updates: Ubuntu may reinstall Snapd during major upgrades. To prevent this, you can block Snapd from being reinstalled:
   sudo apt-mark hold snapd
 
-10 Install LXDE
+10 Install LXDE And Wallpapers
    sudo apt update
-   sudo apt install lxde-core
+   sudo apt install lxde-core ubuntu-wallpapers
 
 11 Reboot Using Sudo Reboot
 
-12 Install Ubuntu Wallpapers
-  sudo apt install ubuntu-wallpapers
-
-13 Have Fun And Start Using Ubuntu LXDE
+12 Have Fun And Start Using Ubuntu LXDE
