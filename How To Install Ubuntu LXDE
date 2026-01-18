@@ -4,7 +4,9 @@ To Install Ubuntu LXDE Which Is Revived Version Of Lubuntu With LXDE
 2 Download Ubuntu Server Iso
 3 Flash Usb To Etcher Ventoy Or Rufus
 4 Setup Ubuntu Server
-5 You May Stop The Services Of Snap 
+  If You See Choose The type of installation
+  Choose Ubuntu Server (minimized)
+5 You May Stop The Services Of Snap
   sudo systemctl stop snapd
   sudo systemctl disable snapd
 
