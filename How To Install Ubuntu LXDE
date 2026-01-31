@@ -5,7 +5,9 @@ To Install Ubuntu LXDE Which Is Revived Version Of Lubuntu With LXDE
 3 Flash Usb To Etcher Ventoy Or Rufus
 4 Setup Ubuntu Server
   If You See Choose The type of installation
-  Choose Ubuntu Server (minimized)
+  Choose Ubuntu Server (minimized) Because 
+  Ubuntu Server Minimized is highly lightweight, specifically designed to be roughly 50% smaller in disk size than the standard server image and offers faster boot times.
+  It removes unnecessary packages, reduces the security attack surface, and provides a bare-bones base ideal for cloud deployments
 5 You May Stop The Services Of Snap
   sudo systemctl stop snapd
   sudo systemctl disable snapd
