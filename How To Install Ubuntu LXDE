@@ -33,5 +33,5 @@ To Install Ubuntu LXDE Which Is Revived Version Of Lubuntu With LXDE
 
 12 sudo systemctl enable lxdm
    sudo systemctl start lxdm
-
+   sudo reboot
 13 Have Fun And Start Using Ubuntu LXDE
