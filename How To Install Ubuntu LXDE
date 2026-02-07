@@ -27,8 +27,11 @@ To Install Ubuntu LXDE Which Is Revived Version Of Lubuntu With LXDE
 
 10 Install LXDE And Wallpapers
    sudo apt update
-   sudo apt install lxde-core ubuntu-wallpapers
+   sudo apt install lxde-core lxdm ubuntu-wallpapers
 
-11 Reboot Using Sudo Reboot
+11 If You see Lightdm Run sudo apt purge lightdm then sudo apt autoremove
 
-12 Have Fun And Start Using Ubuntu LXDE
+12 sudo systemctl enable lxdm
+   sudo systemctl start lxdm
+
+13 Have Fun And Start Using Ubuntu LXDE
